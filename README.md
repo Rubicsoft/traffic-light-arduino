@@ -26,6 +26,7 @@ I'm pretty basic at Arduino, so I learn several fundamentals for it.
 ## Follow Me 😃
 
 X : [@reymo_je][x_link]
+
 Instagram : [@reymo_je_xefron][ig_link]
 
 Created by *Reymo Je*
