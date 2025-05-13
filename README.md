@@ -33,5 +33,5 @@ Created by *Reymo Je*
 
 
 [ig_link]: https://www.instagram.com/reymo_je_xefron/
-[x_link]: https://x.com/reymo_je/
+[x_link]: https://x.com/reymo_je?t=B2QHUjgKiaqXBf193CLnFQ&s=09
 [showcase]: https://x.com/reymo_je/status/1922318331098378403?t=M5oGT91u-472fo_bKp1Bag&s=19
