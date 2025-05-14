@@ -15,7 +15,7 @@
 /* USER CONFIG */
 #define MIN_DELAY 0.2
 #define MAX_DELAY 5
-#define ENABLE_BUZZER false
+#define ENABLE_BUZZER true
 #define BUZZ_TIME 0.1
 
 

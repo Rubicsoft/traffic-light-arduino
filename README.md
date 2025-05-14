@@ -21,7 +21,7 @@ I'm pretty basic at Arduino, so I learn several fundamentals for it.
 * **MIN_DELAY** : Minimum value of the traffic timing (in seconds)
 * **MAX_DELAY** : Maximum value of the traffic timing (in seconds)
 * **ENABLE_BUZZER** : Ability to use the buzzer pin
-* **BUZZ_TIME** : Set the buzzer timimg (in seconds)
+* **BUZZ_TIME** : Set the buzzer timing (in seconds)
 
 ## Follow Me 😃
 
